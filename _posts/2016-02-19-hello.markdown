@@ -8,6 +8,6 @@ description:
 image: https://unsplash.it/2000/1200?image=1003
 image-sm: https://unsplash.it/500/300?image=1003
 ---
-Hello, and welcome to my blog. I mean I always wanted to start one of these blogs, but I never got around to it. So, I guess here we go. 
+Hello, and welcome to my blog. I thougth that I would have a go at trying to make one, so here goes; I have always wanted to start one of these blogs, but I never got around to it. So, I guess here we go. 
 I am going try to post once every weekm but lets be fair, that is never going to happen. People say that they are goin to be devoted to something, but they never really but much effort into it. This should be different however, I really want this to go well, so here we go. 
 Th type of posts that will be here is going to mainly be about technoloy, or film and television, or maybe something inbetween.
